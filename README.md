@@ -6,3 +6,5 @@
 - 10374379, Luiz Octavio Tassinari Saraiva
 
 Para ver a documentação completa, visite [aqui](https://github.com/R0chaa/Valorant-AI/blob/main/IA_2024S1_Projeto.ipynb).
+
+Para acessar o vídeo, clique [aqui](https://youtu.be/tVaB8iL0jd0).
